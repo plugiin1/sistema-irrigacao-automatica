@@ -5,12 +5,17 @@ Este projeto simula um sistema de irrigação automática utilizando Python, rep
 ---
 
 # 📌 Objetivo
-Desenvolver uma aplicação que simule:
-• Leitura de um sensor de umidade do solo
-• Acionamento automático de uma bomba de água
-• Indicação de estados por LEDs
-• Visualização dos dados em uma página web
 
+Desenvolver uma aplicação que simule:
+  
+	•	Leitura de um sensor de umidade do solo.
+
+	•	Acionamento automático de uma bomba de água.
+
+	•	Indicação de estados por LEDs.
+
+	•	Visualização dos dados em uma página web.
+	
 ---
 
 ## 🚀 Como Rodar a Aplicação
